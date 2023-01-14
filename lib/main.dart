@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'home/home_page.dart';
+import 'cat_api/cat_api_page.dart';
 
 void main() {
-  runApp(const HomeApp());
+  runApp(const CatApiApp());
 }
